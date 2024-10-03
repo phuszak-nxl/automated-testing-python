@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26e596a0-e361-49b2-862c-367f76de1bde" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/integration/models/test_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/integration/models/test_store.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/system/test_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/system/test_store.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,63 +46,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Flask server.Flask (app.py).executor&quot;: &quot;Run&quot;,
-    &quot;Multirun.Run app and tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for integration_base_test.BaseTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for item_test.ItemTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.test_create_item.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.test_crud.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.test_delete_item.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.test_get_item.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.test_get_item_no_auth.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.test_get_item_not_found.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.test_item_not_found.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_item.ItemTest.test_store_relationship.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_store.StoreTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_store.StoreTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_store.StoreTest.test_create_store.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_store.StoreTest.test_create_store_items_empty.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_store.StoreTest.test_crud.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_store.StoreTest.test_store_json.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_store.StoreTest.test_store_json_with_item.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_store.StoreTest.test_store_relationship.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_user.UserTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_user.UserTest (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_user.UserTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_user.UserTest.test_crud.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_user.UserTest.test_login_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_user.UserTest.test_register_duplicate_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_user.UserTest.test_register_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for tests.integration.models.test_item.ItemTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for unit_base_test.UnitBaseTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in models (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in models.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in system.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_item.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_store.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_user.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in unit.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in unit_base_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.starter_code.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Shell Script.Run newman tests.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PaulHuszak/OneDrive - NEXTLANE/Documents/udemy/automated-testing-python/section_6/starter_code&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flask server.Flask (app.py).executor": "Run",
+    "Multirun.Run app and tests.executor": "Run",
+    "Python tests.Python tests for integration_base_test.BaseTest.executor": "Run",
+    "Python tests.Python tests for item_test.ItemTest.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest (1).executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.test_create_item.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.test_crud.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.test_delete_item.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.test_get_item.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.test_get_item_no_auth.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.test_get_item_not_found.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.test_item_not_found.executor": "Run",
+    "Python tests.Python tests for test_item.ItemTest.test_store_relationship.executor": "Run",
+    "Python tests.Python tests for test_store.StoreTest (1).executor": "Run",
+    "Python tests.Python tests for test_store.StoreTest.executor": "Run",
+    "Python tests.Python tests for test_store.StoreTest.test_create_store.executor": "Run",
+    "Python tests.Python tests for test_store.StoreTest.test_create_store_items_empty.executor": "Run",
+    "Python tests.Python tests for test_store.StoreTest.test_crud.executor": "Run",
+    "Python tests.Python tests for test_store.StoreTest.test_store_json.executor": "Run",
+    "Python tests.Python tests for test_store.StoreTest.test_store_json_with_item.executor": "Run",
+    "Python tests.Python tests for test_store.StoreTest.test_store_relationship.executor": "Run",
+    "Python tests.Python tests for test_user.UserTest (1).executor": "Run",
+    "Python tests.Python tests for test_user.UserTest (2).executor": "Run",
+    "Python tests.Python tests for test_user.UserTest.executor": "Run",
+    "Python tests.Python tests for test_user.UserTest.test_crud.executor": "Run",
+    "Python tests.Python tests for test_user.UserTest.test_login_user.executor": "Run",
+    "Python tests.Python tests for test_user.UserTest.test_register_duplicate_user.executor": "Run",
+    "Python tests.Python tests for test_user.UserTest.test_register_user.executor": "Run",
+    "Python tests.Python tests for tests.integration.models.test_item.ItemTest.executor": "Run",
+    "Python tests.Python tests for unit_base_test.UnitBaseTest.executor": "Run",
+    "Python tests.Python tests in models (1).executor": "Run",
+    "Python tests.Python tests in models.executor": "Run",
+    "Python tests.Python tests in system.executor": "Run",
+    "Python tests.Python tests in test_item.py.executor": "Run",
+    "Python tests.Python tests in test_store.py.executor": "Run",
+    "Python tests.Python tests in test_user.py.executor": "Run",
+    "Python tests.Python tests in tests.executor": "Run",
+    "Python tests.Python tests in unit.executor": "Run",
+    "Python tests.Python tests in unit_base_test.py.executor": "Run",
+    "Python.starter_code.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Shell Script.Run newman tests.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/PaulHuszak/OneDrive - NEXTLANE/Documents/udemy/automated-testing-python/section_6/starter_code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PaulHuszak\OneDrive - NEXTLANE\Documents\udemy\automated-testing-python\section_6\starter_code" />
@@ -109,7 +111,7 @@
       <recent name="C:\Users\PaulHuszak\OneDrive - NEXTLANE\Documents\udemy\automated-testing-python\section_6\starter_code\tests\integration" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.starter_code">
+  <component name="RunManager" selected="Python tests.Python tests in tests">
     <configuration name="Run app and tests" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="2.0">
       <runConfiguration name="starter_code" type="Python" />
       <runConfiguration name="Run newman tests" type="Shell Script" />
@@ -138,6 +140,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="starter_code" type="Python.FlaskServer">
+      <module name="starter_code" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="Run newman tests" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="newman run .\stores_rest_api.postman_collection -e .\stores_rest_api.postman_environment" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -151,6 +169,22 @@
       <option name="EXECUTE_IN_TERMINAL" value="true" />
       <option name="EXECUTE_SCRIPT_FILE" value="false" />
       <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in models (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="starter_code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/integration/models&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in models" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -182,22 +216,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/system&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_store.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="starter_code" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/system/test_store.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -234,22 +252,23 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Flask server.starter_code" />
       <item itemvalue="Multirun.Run app and tests" />
       <item itemvalue="Python.starter_code" />
-      <item itemvalue="Shell Script.Run newman tests" />
+      <item itemvalue="Python tests.Python tests in models (1)" />
       <item itemvalue="Python tests.Python tests in models" />
-      <item itemvalue="Python tests.Python tests in system" />
-      <item itemvalue="Python tests.Python tests in test_store.py" />
       <item itemvalue="Python tests.Python tests in test_user.py" />
+      <item itemvalue="Python tests.Python tests in system" />
       <item itemvalue="Python tests.Python tests in tests" />
+      <item itemvalue="Shell Script.Run newman tests" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in tests" />
+        <item itemvalue="Python tests.Python tests in models (1)" />
         <item itemvalue="Python tests.Python tests in models" />
         <item itemvalue="Python tests.Python tests in system" />
         <item itemvalue="Python tests.Python tests in test_user.py" />
-        <item itemvalue="Python tests.Python tests in test_store.py" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +298,8 @@
       <workItem from="1727878001993" duration="8421000" />
       <workItem from="1727890747713" duration="459000" />
       <workItem from="1727891217911" duration="8499000" />
+      <workItem from="1727946860087" duration="324000" />
+      <workItem from="1727947194722" duration="298000" />
     </task>
     <servers />
   </component>

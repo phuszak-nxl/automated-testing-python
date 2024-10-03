@@ -12,6 +12,7 @@ class StoreTest(BaseTest):
                 self.assertEqual(resp.status_code, 201)
                 self.assertIsNotNone(StoreModel.find_by_name('test_store'))
                 self.assertDictEqual({
+                    'id': 1,
                     'name': 'test_store',
                     'items': []
                 },
@@ -41,7 +42,7 @@ class StoreTest(BaseTest):
                 resp = client.get('/store/test_store')
                 self.assertEqual(resp.status_code, 200)
                 self.assertDictEqual({
-                    'name': 'test_store', 'items': []
+                    'id': 1, 'name': 'test_store', 'items': []
                 }, json.loads(resp.data))
 
     def test_store_not_found(self):
@@ -61,7 +62,7 @@ class StoreTest(BaseTest):
                 resp = client.get('/store/test_store')
                 self.assertEqual(resp.status_code, 200)
                 self.assertDictEqual({
-                    'name': 'test_store', 'items': [{
+                    'id': 1, 'name': 'test_store', 'items': [{
                         'name': 'test_item',
                         'price': 19.99,
                     }]
@@ -76,7 +77,7 @@ class StoreTest(BaseTest):
                 self.assertEqual(resp.status_code, 200)
                 self.assertDictEqual({
                     'stores': [
-                        {'name': 'test_store', 'items': [
+                        {'id':1, 'name': 'test_store', 'items': [
                             {'name': 'test_item', 'price': 19.99},
                         ]},
                     ]
@@ -90,6 +91,6 @@ class StoreTest(BaseTest):
                 self.assertEqual(resp.status_code, 200)
                 self.assertDictEqual({
                     'stores': [
-                        {'name': 'test_store', 'items': []},
+                        {'id': 1, 'name': 'test_store', 'items': []},
                     ]
                 }, json.loads(resp.data))
