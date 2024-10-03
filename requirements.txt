@@ -1,5 +1,5 @@
 Flask>2.0, <2.1
-# Werkzeug<3.0.0
+Werkzeug<3.0.0
 Flask-RESTful
 Flask-JWT
 SQLAlchemy<2.0
