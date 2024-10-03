@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26e596a0-e361-49b2-862c-367f76de1bde" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,63 +44,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Flask server.Flask (app.py).executor": "Run",
-    "Multirun.Run app and tests.executor": "Run",
-    "Python tests.Python tests for integration_base_test.BaseTest.executor": "Run",
-    "Python tests.Python tests for item_test.ItemTest.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest (1).executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.test_create_item.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.test_crud.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.test_delete_item.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.test_get_item.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.test_get_item_no_auth.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.test_get_item_not_found.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.test_item_not_found.executor": "Run",
-    "Python tests.Python tests for test_item.ItemTest.test_store_relationship.executor": "Run",
-    "Python tests.Python tests for test_store.StoreTest (1).executor": "Run",
-    "Python tests.Python tests for test_store.StoreTest.executor": "Run",
-    "Python tests.Python tests for test_store.StoreTest.test_create_store.executor": "Run",
-    "Python tests.Python tests for test_store.StoreTest.test_create_store_items_empty.executor": "Run",
-    "Python tests.Python tests for test_store.StoreTest.test_crud.executor": "Run",
-    "Python tests.Python tests for test_store.StoreTest.test_store_json.executor": "Run",
-    "Python tests.Python tests for test_store.StoreTest.test_store_json_with_item.executor": "Run",
-    "Python tests.Python tests for test_store.StoreTest.test_store_relationship.executor": "Run",
-    "Python tests.Python tests for test_user.UserTest (1).executor": "Run",
-    "Python tests.Python tests for test_user.UserTest (2).executor": "Run",
-    "Python tests.Python tests for test_user.UserTest.executor": "Run",
-    "Python tests.Python tests for test_user.UserTest.test_crud.executor": "Run",
-    "Python tests.Python tests for test_user.UserTest.test_login_user.executor": "Run",
-    "Python tests.Python tests for test_user.UserTest.test_register_duplicate_user.executor": "Run",
-    "Python tests.Python tests for test_user.UserTest.test_register_user.executor": "Run",
-    "Python tests.Python tests for tests.integration.models.test_item.ItemTest.executor": "Run",
-    "Python tests.Python tests for unit_base_test.UnitBaseTest.executor": "Run",
-    "Python tests.Python tests in models (1).executor": "Run",
-    "Python tests.Python tests in models.executor": "Run",
-    "Python tests.Python tests in system.executor": "Run",
-    "Python tests.Python tests in test_item.py.executor": "Run",
-    "Python tests.Python tests in test_store.py.executor": "Run",
-    "Python tests.Python tests in test_user.py.executor": "Run",
-    "Python tests.Python tests in tests.executor": "Run",
-    "Python tests.Python tests in unit.executor": "Run",
-    "Python tests.Python tests in unit_base_test.py.executor": "Run",
-    "Python.starter_code.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Shell Script.Run newman tests.executor": "Run",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/PaulHuszak/OneDrive - NEXTLANE/Documents/udemy/automated-testing-python/section_6/starter_code",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flask server.Flask (app.py).executor&quot;: &quot;Run&quot;,
+    &quot;Multirun.Run app and tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for integration_base_test.BaseTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for item_test.ItemTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.test_create_item.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.test_crud.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.test_delete_item.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.test_get_item.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.test_get_item_no_auth.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.test_get_item_not_found.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.test_item_not_found.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_item.ItemTest.test_store_relationship.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_store.StoreTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_store.StoreTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_store.StoreTest.test_create_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_store.StoreTest.test_create_store_items_empty.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_store.StoreTest.test_crud.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_store.StoreTest.test_store_json.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_store.StoreTest.test_store_json_with_item.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_store.StoreTest.test_store_relationship.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_user.UserTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_user.UserTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_user.UserTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_user.UserTest.test_crud.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_user.UserTest.test_login_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_user.UserTest.test_register_duplicate_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_user.UserTest.test_register_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.integration.models.test_item.ItemTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for unit_base_test.UnitBaseTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in models (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in models.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in system.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_item.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_store.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_user.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in unit.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in unit_base_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.starter_code.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Shell Script.Run newman tests.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PaulHuszak/OneDrive - NEXTLANE/Documents/udemy/automated-testing-python/section_6/starter_code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PaulHuszak\OneDrive - NEXTLANE\Documents\udemy\automated-testing-python\section_6\starter_code" />
@@ -109,7 +109,7 @@
       <recent name="C:\Users\PaulHuszak\OneDrive - NEXTLANE\Documents\udemy\automated-testing-python\section_6\starter_code\tests\integration" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in tests">
+  <component name="RunManager" selected="Python.starter_code">
     <configuration name="Run app and tests" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="2.0">
       <runConfiguration name="starter_code" type="Python" />
       <runConfiguration name="Run newman tests" type="Shell Script" />
@@ -124,7 +124,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.8" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -237,12 +236,12 @@
     <list>
       <item itemvalue="Multirun.Run app and tests" />
       <item itemvalue="Python.starter_code" />
+      <item itemvalue="Shell Script.Run newman tests" />
       <item itemvalue="Python tests.Python tests in models" />
+      <item itemvalue="Python tests.Python tests in system" />
       <item itemvalue="Python tests.Python tests in test_store.py" />
       <item itemvalue="Python tests.Python tests in test_user.py" />
-      <item itemvalue="Python tests.Python tests in system" />
       <item itemvalue="Python tests.Python tests in tests" />
-      <item itemvalue="Shell Script.Run newman tests" />
     </list>
     <recent_temporary>
       <list>
@@ -279,7 +278,7 @@
       <workItem from="1727877552984" duration="436000" />
       <workItem from="1727878001993" duration="8421000" />
       <workItem from="1727890747713" duration="459000" />
-      <workItem from="1727891217911" duration="7755000" />
+      <workItem from="1727891217911" duration="8499000" />
     </task>
     <servers />
   </component>
